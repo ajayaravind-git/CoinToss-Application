@@ -1,0 +1,7 @@
+.coinImage {
+    width: 10%;
+    height: 10%;
+    margin-bottom: 10px;
+    border: 2px dotted black;
+    border-radius: 50%;
+}
